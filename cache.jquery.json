@@ -1,0 +1,28 @@
+{
+    "name": "cache",
+    "title": "jQuery local cache",
+    "description": "use localstorage for namespace cache ",
+    "keywords": [
+        "cache",
+        "local",
+        "localstorage"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "chajn",
+        "url": "https://github.com/iischajn"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/jquery/jquery-color/blob/2.1.2/MIT-LICENSE.txt"
+        }
+    ],
+    "bugs": "https://github.com/jquery/jquery-color/issues",
+    "homepage": "https://github.com/jquery/jquery-color",
+    "docs": "https://github.com/jquery/jquery-color",
+    "download": "http://code.jquery.com/#color",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
