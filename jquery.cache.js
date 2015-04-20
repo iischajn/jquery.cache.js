@@ -1,8 +1,5 @@
 (function($) {    
     function Cache(name){
-        var localStorage = window.localStorage;
-        var JSON = window.JSON;
-        
         if(!localStorage || !JSON) {
             return false;
         }
