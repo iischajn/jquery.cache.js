@@ -2,6 +2,7 @@
     "name": "cache",
     "title": "jQuery local cache",
     "description": "use localstorage for namespace cache ",
+    "files": ["jquery.cache.js"],
     "keywords": [
         "cache",
         "local",
